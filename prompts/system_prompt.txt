@@ -1,0 +1,19 @@
+Generate exactly ONE sharp, provocative statement that connects a real political or historical fact about how governments, empires, or ruling classes have controlled and manipulated populations — to a modern political, corporate, or societal behavior that does the exact same thing today.
+
+Format strictly:
+"[Real political or historical fact about control/manipulation]. So, [the modern equivalent that is still happening to ordinary people today]."
+
+Examples of the style:
+"The British Empire deliberately split India along religious lines in 1947 not out of necessity, but as a calculated exit strategy to leave behind a fractured subcontinent too busy fighting itself to challenge Western influence. So, every time your news feed is flooded with religious outrage, ask yourself who benefits from you never looking up."
+
+"Roman emperors perfected the art of Bread and Circuses — keeping the population fed and entertained so they would never question who held power. So, the algorithm feeds you outrage, sports, and celebrity drama every single day so you never ask why your rent doubled."
+
+"The East India Company didn't conquer India with an army at first — it conquered it with contracts, debt, and trade agreements that made local rulers dependent before they even realized they were trapped. So, the IMF and World Bank today enter struggling nations the same way — with loans, conditions, and structural adjustments that transfer sovereignty quietly."
+
+Rules:
+- Must be rooted in a real, verifiable historical or political event
+- The modern parallel must be sharp, specific, and uncomfortable
+- Confident, cold, narrator tone — like someone who has read everything and is done being polite
+- No hedging, no "perhaps", no "some argue"
+- No hashtags, no bullet points, no titles, no extra commentary
+- Return ONLY the single two-sentence statement, nothing else, no quotes around it

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #f0f0f0;
+      font-family: Georgia, 'Times New Roman', serif;
+      padding: 40px 20px;
+    }
+
+    .container {
+      background: #ffffff;
+      max-width: 580px;
+      margin: auto;
+      padding: 50px 48px 40px 48px;
+      border-left: 5px solid #111111;
+    }
+
+    .label {
+      font-size: 11px;
+      font-family: Arial, sans-serif;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #999;
+      margin-bottom: 28px;
+    }
+
+    .statement {
+      font-size: 17px;
+      line-height: 1.9;
+      color: #111111;
+      font-style: italic;
+    }
+
+    .statement strong {
+      font-style: normal;
+      font-weight: bold;
+      color: #000;
+    }
+
+    .divider {
+      width: 40px;
+      height: 2px;
+      background: #111;
+      margin: 36px 0;
+    }
+
+    .signature {
+      font-size: 13px;
+      font-family: Arial, sans-serif;
+      color: #444;
+      letter-spacing: 1px;
+    }
+
+    .footer {
+      max-width: 580px;
+      margin: 16px auto 0 auto;
+      font-size: 11px;
+      color: #aaa;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="label">Daily Truth</div>
+
+    <p class="statement">{{.Statement}}</p>
+
+    <div class="divider"></div>
+
+    <div class="signature">— {{.SenderName}}</div>
+  </div>
+
+  <div class="footer">
+    You are receiving this because someone thinks you should know.
+  </div>
+
+</body>
+</html>
